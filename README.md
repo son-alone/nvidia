@@ -1,2 +1,3 @@
 # nvidia
-Created with CodeSandbox
+
+untuk tugas
