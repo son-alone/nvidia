@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&display=swap");
+
 body {
   background-image: url("nvidiaw.png");
   background-repeat: no-repeat;
@@ -5,7 +7,7 @@ body {
   width: auto;
   margin: auto;
   text-align: center;
-  font-family: "Quicksand", sans-serif;
+  font-family: Montserrat;
 }
 
 h1 {
