@@ -1,0 +1,97 @@
+body {
+  background-image: url("nvidiaw.png");
+  background-repeat: no-repeat;
+  background-size: 1920px 1280px;
+  width: auto;
+  margin: auto;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  margin: 0;
+  color: greenyellow;
+}
+
+h4 {
+  color: yellow;
+}
+
+p {
+  line-height: 2;
+  margin: 5;
+  color: whitesmoke;
+}
+
+.main-container {
+  border: 5px solid yellowgreen;
+  position: relative;
+  padding: 15px;
+  margin: 10px;
+}
+
+.bottom-container {
+  border: 5px solid yellowgreen;
+  padding: 50px 0 20px;
+  padding: 0px 22px;
+}
+
+.info {
+  padding: 0px 20px 9.6px 0px;
+}
+
+.invo {
+  padding: 0px 20px 9.6px 0px;
+}
+
+.even {
+  padding: 0px 20px 9.6px 0px;
+}
+
+.copyright {
+  padding: 34px 0px 21px;
+}
+
+.nvidia-img {
+  max-width: 100%;
+  margin: 10px;
+  border-radius: 5%;
+}
+
+.rtx-img {
+  max-width: 50%;
+  border-radius: 15%;
+  margin: 43px 0px 0px;
+}
+
+.gtx-img {
+  max-width: 50%;
+  border-radius: 15%;
+  margin: 30px 0px 0px;
+}
+
+.gt-img {
+  max-width: 50%;
+  border-radius: 15%;
+  margin: 47px 0px 0px;
+}
+
+.navbar {
+  border: 5px solid yellowgreen;
+}
+
+.navbar-home:hover {
+  color: blue !important;
+}
+
+.navbar-nvidia:hover {
+  color: blue !important;
+}
+
+.bottom-container {
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
